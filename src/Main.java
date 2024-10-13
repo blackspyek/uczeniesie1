@@ -18,6 +18,7 @@ public class Main {
         System.out.println("Dodane w fix/tet23");
         System.out.println("Dodane w fix/tet23333");
         System.out.println("Dodane w fix/tet233");
+        System.out.println("Dodane w fix/tet233");
 
 
     }
