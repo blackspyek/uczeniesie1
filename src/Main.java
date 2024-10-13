@@ -15,5 +15,8 @@ public class Main {
         System.out.println("HOT FIX");
 
 
+        System.out.println("Dodane w fix/tet23");
+
+
     }
 }
