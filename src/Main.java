@@ -23,6 +23,13 @@ public class Main {
         System.out.println("Dodane w fix/tet233");
         System.out.println("Dodane w poprawione");
         System.out.println("Dodane w fix/tet233");
+        System.out.println("Dodaneeeee");
+        System.out.println("Dodaneeeee");
+        System.out.println("Dodaneeeee");
+        System.out.println("Dodaneeeee");
+        System.out.println("Dodaneeeee");
+        System.out.println("Dodaneeeee");
+        System.out.println("Dodaneeeee");
 
 
     }
